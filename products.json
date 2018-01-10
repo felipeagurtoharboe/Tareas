@@ -1,19 +1,19 @@
 {"products":
 [
 {
-  "nombre": "El Guasón",
-  "imagen": "https://upload.wikimedia.org/wikipedia/en/8/87/Joker_%28Alex_Ross%29.jpg",
-  "latitud": "-33.575645",
+  "name": "El GuasÃ³n",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Joker_%28Alex_Ross%29.jpg",
+  "price": "-33.575645",
   "longitud": "-70.549837"
 },
 {
-  "nombre": "Bane",
-  "imagen": "https://en.wikipedia.org/wiki/Bane_(comics)#/media/File:Bane_breaks_Batman.png",
+  "name": "Bane",
+  "image": "https://en.wikipedia.org/wiki/Bane_(comics)#/media/File:Bane_breaks_Batman.png",
   "latitud": "-33.434295",
   "longitud": "-70.659802"
 },
 {
-  "nombre": "Gatúbela",
+  "nombre": "GatÃºbela",
   "imagen": "https://en.wikipedia.org/wiki/Catwoman#/media/File:Catwoman-ninelives-tpb.jpg",
   "latitud": "-33.444705",
   "longitud": "-70.635776"
